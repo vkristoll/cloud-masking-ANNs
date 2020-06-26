@@ -1,4 +1,4 @@
-Cloud masking with ANNs
+# Cloud masking with artificial neural networks (ANNs)
 
 This repository contains code related to the study analyzed in the paper cited below:
 
