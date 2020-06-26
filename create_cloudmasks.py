@@ -15,13 +15,13 @@ for file in directory:
    ypred = pd.read_csv(file, header=None) # these files do not contain a header
    ypred2=np.array(ypred)    
    
-   sizex=1130*1830
+   rows='number of rows of image'
+   columns= 'number of columns of image'
+
+   sizex=rows*columns
    for i in range(sizex):
         if (ypred2[i,0]==1):
             ypred2[i,0]=255   
-   
-   rows='number of rows of image'
-   columns= 'number of columns of image'
             
    reshape=np.reshape(ypred2,(rows,columns)) 
    reshape2=np.uint8(reshape)  

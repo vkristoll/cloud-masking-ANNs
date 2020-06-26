@@ -1,6 +1,6 @@
 #Convert a Sentinel-2 image with 13 bands to a .csv file. 
 #Each row of the output file contains the 13 values of the spectral signature
-#The output can be feeded to the ANN
+#The output can be fed to the ANN
     
 import os
 import pandas as pd

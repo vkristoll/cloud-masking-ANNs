@@ -27,7 +27,7 @@ gdal_merge.py -o  merge.tif -of Gtiff -separate -ot FLOAT32 *.tif
 --------------------------------------
 
 #Cut image
-gdal_translate T31TFH_20180110T103409_merge.tif ot Float32 -of Gtiff -srcwin 0 700 1830 1130 T31TFH_20180110T103409_cut.tif SOSTO
+gdal_translate T31TFH_20180110T103409_merge.tif ot Float32 -of Gtiff -srcwin 0 700 1830 1130 T31TFH_20180110T103409_cut.tif 
 									     
 ----------------------------------
 # Run command in folder with multiple images
