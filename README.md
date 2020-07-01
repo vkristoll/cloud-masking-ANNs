@@ -8,6 +8,8 @@ If you use this code please cite the paper mentioned above.
 
 It can be accessed in: https://doi.org/10.1080/01431161.2020.1714776
 
+If you cannot access the paper please contact me at: vkristoll@central.ntua.gr
+
 
 
 
