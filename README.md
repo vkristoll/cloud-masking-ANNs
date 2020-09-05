@@ -8,7 +8,7 @@ If you use this code please cite the paper mentioned above.
 
 It can be accessed in: https://doi.org/10.1080/01431161.2020.1714776
 
-If you cannot access the paper please contact me at: vkristoll@central.ntua.gr
+If you cannot access the paper please contact me at: vkristoll@central.ntua.gr. Alternatively, the preprint can be downloaded from my personal website: http://users.ntua.gr/vkristoll/assets/manuscript_cloud_masking_revised_technical_V2preprint.pdf
 
 
 
