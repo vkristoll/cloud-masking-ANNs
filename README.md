@@ -31,10 +31,17 @@ be found in https://doi.org/10.6084/m9.figshare.8075396.v1
 >8. "create_cloudmasks.py" to convert the predictions to cloudmasks.
 
 
-Detailed guidelines are included inside each script.
+*Detailed guidelines are included inside each script.*
+
+### Optionally:
+
+Run:
+- "fft.py" to to apply the Fast Fourier Transform.
+- "statistical metrics.py" to calculate several metrics.
+- "finding_coordinates.py" to find coordinates in image, map and space when given a .csv file containing an index denoting the order of a pixel.
 
 
-*If you use this code, please cite the below paper.*
+If you use this code, please cite the below paper.
 
 ```
 @article{doi:10.1080/01431161.2020.1714776,
