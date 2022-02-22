@@ -4,7 +4,7 @@ import numpy as np
 
 # Read H5 file
 # This file carries a database with spectra for cloud masking applications. It was created during the study described in https://doi.org/10.3390/rs8080666
-# It can be downloaded from https://gitext.gfz-potsdam.de/EnMAP/sentinel2_manual_classification_clouds
+# It can be downloaded from https://git.gfz-potsdam.de/EnMAP/sentinel2_manual_classification_clouds
 
 f = h5.File("20170412_s2_manual_classification_data.h5", "r")
 
