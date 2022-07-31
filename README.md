@@ -5,8 +5,7 @@ This repository contains code related to the study analyzed in the paper cited b
 Kristollari, Viktoria, and Vassilia Karathanassi. "Artificial neural networks for cloud masking of Sentinel-2 ocean images with noise and sunglint." International Journal of Remote Sensing 41, no. 11 (2020): 4102-4135.
 
 It can be accessed in: https://doi.org/10.1080/01431161.2020.1714776
-
-If you cannot access the paper please contact me at: vkristoll@central.ntua.gr. Alternatively, the preprint can be downloaded from my personal website: http://users.ntua.gr/vkristoll/assets/manuscript_cloud_masking_revised_technical_V2preprint.pdf
+The preprint can be downloaded from my personal website: http://users.ntua.gr/vkristoll/assets/manuscript_cloud_masking_revised_technical_V2preprint.pdf
 
 ![ANN cloud masking methodology](/images/ANN_cloud_masking_methodology.png)
 
